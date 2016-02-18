@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/rubeGoldberg.unity
+- path: Assets/Scenes/rubeGoldberg.unity
   isLoaded: 1
   isActive: 1
